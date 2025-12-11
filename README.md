@@ -18,4 +18,10 @@ I work on AI and Computer Vision, with a focus on 3D reconstruction and spatiote
 
 ---
 
+## 📫 Connect
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=d4wmWAQAAAAJ)
+
+---
+
 <sub>📝 [Advancing SEGAN: Proposing and Evaluating Architectural Improvements](https://medium.com/@Omer_Sela/advancing-segan-proposing-and-evaluating-architectural-improvements-3e367c71758a)</sub>
