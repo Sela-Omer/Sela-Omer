@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Omer Sela 👋
 
-<!--
-**Sela-Omer/Sela-Omer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied Scientist @ Amazon Prime Video Sports | MS in Computer Science @ Tel Aviv University**
 
-Here are some ideas to get you started:
+I work on AI and Computer Vision, with a focus on 3D reconstruction and spatiotemporal modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📄 Publications
+
+- **Splatent: Splatting Diffusion Latents for Novel View Synthesis**  
+  *Or Hirschorn, Omer Sela, Inbar Huberman-Spiegelglas, Netalee Efrat, Eli Alshan, Ianir Ideses, Frederic Devernay, Yochai Zvik, Lior Fritz*  
+  [[arXiv]](https://arxiv.org/abs/2512.09923)
+
+- **CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**  
+  *Omer Sela, Michael Chertok, Lior Wolf*  
+  [[arXiv]](https://arxiv.org/abs/2512.01478)
+
+---
+
+<sub>📝 [Advancing SEGAN: Proposing and Evaluating Architectural Improvements](https://medium.com/@Omer_Sela/advancing-segan-proposing-and-evaluating-architectural-improvements-3e367c71758a)</sub>
