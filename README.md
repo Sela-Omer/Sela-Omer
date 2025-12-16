@@ -22,7 +22,7 @@ I work on AI and Computer Vision, with a focus on 3D reconstruction and spatiote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-sela)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=d4wmWAQAAAAJ)
-[![Amazon Science](https://img.shields.io/badge/Amazon%20Science-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/author/omer-sela)
+[![Amazon Science](https://img.shields.io/badge/Amazon%20Science-FF9900?style=flat&logo=amazon&logoColor=white)](www.amazon.science/author/omer-sela)
 
 ---
 
