@@ -8,6 +8,10 @@ I work on AI and Computer Vision, with a focus on 3D reconstruction and spatiote
 
 ## 📄 Publications
 
+- **No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models**  
+  *Omer Sela*  
+  [[arXiv]](https://arxiv.org/abs/2603.03203)
+
 - **Splatent: Splatting Diffusion Latents for Novel View Synthesis**  
   *Or Hirschorn, Omer Sela, Inbar Huberman-Spiegelglas, Netalee Efrat, Eli Alshan, Ianir Ideses, Frederic Devernay, Yochai Zvik, Lior Fritz*  
   [[arXiv]](https://arxiv.org/abs/2512.09923)
