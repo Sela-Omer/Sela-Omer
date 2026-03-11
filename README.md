@@ -1,8 +1,7 @@
-# Hi, I'm Omer Sela 👋
-
+# Omer Sela
 **Applied Scientist @ Amazon Prime Video Sports | MS in Computer Science @ Tel Aviv University**
 
-I work on AI and Computer Vision, with a focus on 3D reconstruction and spatiotemporal modeling.
+Researching AI and Computer Vision, with a focus on 3D reconstruction and spatiotemporal modeling.
 
 ---
 
