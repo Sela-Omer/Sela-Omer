@@ -11,10 +11,11 @@ I work on AI and Computer Vision, with a focus on 3D reconstruction and spatiote
 - **No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models**  
   *Omer Sela*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.03203-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.03203)
-
+  
 - **Splatent: Splatting Diffusion Latents for Novel View Synthesis**  
   *Or Hirschorn, Omer Sela, Inbar Huberman-Spiegelglas, Netalee Efrat, Eli Alshan, Ianir Ideses, Frederic Devernay, Yochai Zvik, Lior Fritz*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2512.09923-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.09923)
+  🎉 **Accepted to CVPR 2026!** 🎉  
+  [![arXiv](https://img.shields.io/badge/arXiv-2512.09923-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.09923) [![Project Page](https://img.shields.io/badge/Project%20Page-222222?style=flat&logo=githubpages&logoColor=white)](https://orhir.github.io/Splatent/)
 
 - **CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**  
   *Omer Sela, Michael Chertok, Lior Wolf*  
