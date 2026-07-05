@@ -9,7 +9,7 @@ Researching AI and Computer Vision, with a focus on 3D reconstruction and spatio
 
 - **TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control**
   *Omer Sela, Inbar Huberman-Spiegelglas, Michael Rotman, Sagie Benaim, Avi Ben-Cohen*
-  [![arXiv](https://img.shields.io/badge/arXiv-2607.00861-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.00861) [![Project Page](https://img.shields.io/badge/Project%20Page-2196F3?style=flat&logo=googlechrome&logoColor=white)](https://sela-omer.github.io/traj-loc/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sela-Omer/traj-loc)
+    [![arXiv](https://img.shields.io/badge/arXiv-2607.00861-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.00861) [![Project Page](https://img.shields.io/badge/Project%20Page-2196F3?style=flat&logo=googlechrome&logoColor=white)](https://sela-omer.github.io/traj-loc/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sela-Omer/traj-loc)
 
 - **No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models**  
   *Omer Sela*  
