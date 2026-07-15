@@ -1,5 +1,8 @@
 # Omer Sela
 **Applied Scientist @ Amazon Prime Video Sports | MS in Computer Science @ Tel Aviv University**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-sela)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=d4wmWAQAAAAJ)
+[![Amazon Science](https://img.shields.io/badge/Amazon%20Science-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/author/omer-sela)
 
 Researching AI and Computer Vision, with a focus on 3D reconstruction and spatiotemporal modeling.
 
@@ -23,14 +26,6 @@ Researching AI and Computer Vision, with a focus on 3D reconstruction and spatio
 - **CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**  
   *Omer Sela, Michael Chertok, Lior Wolf*  
   [![arXiv](https://img.shields.io/badge/arXiv-2512.01478-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.01478)
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-sela)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=d4wmWAQAAAAJ)
-[![Amazon Science](https://img.shields.io/badge/Amazon%20Science-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/author/omer-sela)
 
 ---
 
