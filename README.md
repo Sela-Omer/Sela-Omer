@@ -4,7 +4,6 @@
 [![Amazon Science](https://img.shields.io/badge/Amazon%20Science-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/author/omer-sela)
 
 **Applied Scientist @ Amazon Prime Video Sports | MS in Computer Science @ Tel Aviv University**
-Researching AI and Computer Vision, with a focus on 3D reconstruction and spatiotemporal modeling.
 
 ---
 
