@@ -27,5 +27,3 @@
   [![arXiv](https://img.shields.io/badge/arXiv-2512.01478-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.01478)
 
 ---
-
-<sub>📝 [Advancing SEGAN: Proposing and Evaluating Architectural Improvements](https://medium.com/@Omer_Sela/advancing-segan-proposing-and-evaluating-architectural-improvements-3e367c71758a)</sub>
