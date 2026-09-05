@@ -9,12 +9,10 @@
 
 ## 📄 Publications
 
-- **Detection of Upper-Level Troughs and Ridges Using Deep Learning — Application in the Mediterranean**
-  *Ofir Ariel, Omer Sela, Hadas Saaroni, Baruch Ziv*
-  ![Paper DOI](https://img.shields.io/badge/Paper%20DOI-forthcoming-555555?style=flat&logo=doi&logoColor=white) [![Project Page](https://img.shields.io/badge/Project%20Page-2196F3?
-style=flat&logo=googlechrome&logoColor=white)](https://sela-omer.github.io/upper-level-trough-ridge-detection/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)] (https://github.com/Sela-Omer/upper-level-trough-ridge-detection) [![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22388962.svg)](https://doi.org/10.5281/zenodo.22388962) [![Dataset](https://
-img.shields.io/badge/Dataset-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/Omer-Sela/upper-level-trough-ridge-detection-data) [![Checkpoints](https://img.shields.io/
-badge/Checkpoints-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/Omer-Sela/upper-level-trough-ridge-detection-models)
+- **Detection of Upper-Level Troughs and Ridges Using Deep Learning — Application in the Mediterranean**  
+  *Ofir Ariel, Omer Sela, Hadas Saaroni, Baruch Ziv*  
+  ![Paper DOI](https://img.shields.io/badge/Paper%20DOI-forthcoming-555555?style=flat&logo=doi&logoColor=white) [![Project Page](https://img.shields.io/badge/Project%20Page-2196F3?style=flat&logo=googlechrome&logoColor=white)](https://sela-omer.github.io/upper-level-trough-ridge-detection/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sela-Omer/upper-level-trough-ridge-detection) [![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22388962.svg)](https://doi.org/10.5281/zenodo.22388962) [![Dataset](https://img.shields.io/badge/Dataset-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/Omer-Sela/upper-level-trough-ridge-detection-data) [![Checkpoints](https://img.shields.io/badge/Checkpoints-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/Omer-Sela/upper-level-trough-ridge-detection-models)
+
 
 - **TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control**  
   *Omer Sela, Inbar Huberman-Spiegelglas, Michael Rotman, Sagie Benaim, Avi Ben-Cohen*  
